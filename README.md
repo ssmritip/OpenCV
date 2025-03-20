@@ -15,6 +15,7 @@ This repository is for exploring and learning the fundamentals of OpenCV. It inc
 │   └── canvas.py       
 │   └── drawing.py   
 │   └── main.py   
+├── README.md
 └── face_detection/      # Simple face detection using face_detection.ipynb 
 ```
 
@@ -47,7 +48,6 @@ In this folder, a simple face detection script using OpenCV's Haar Cascade Class
 2. Detect faces in images or video streams.
 
 ```python
-# Example Code Snippet for Face Detection
 import cv2
 
 # Load pre-trained Haar Cascade Classifier for face detection
@@ -74,7 +74,7 @@ pip install opencv-python mediapipe jupyter
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Run the scripts from the `basics/` folder to explore basic OpenCV functions.
-4. Run `painter.py` from the `virtual_painter/` folder to start the virtual painting application.
+4. Run `main.py` from the `Project_Virtual_Painter/` folder to start the virtual painting application.
 5. Open the `face_detection.ipynb` Jupyter notebook to test face detection.
 
 
